@@ -178,19 +178,9 @@ export default function Home() {
             {/* Operation Symbol */}
             <div className="flex justify-center">
               <div className="rounded-full bg-blue-100 p-4 dark:bg-blue-900/30">
-                <svg
-                  className="h-8 w-8 text-blue-600 dark:text-blue-400"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M12 4v16m0-16c0 0 0 0 0 0m0 16c0 0 0 0 0 0M4 12h16"
-                  />
-                </svg>
+                <div className="flex h-8 w-8 items-center justify-center text-3xl font-bold text-blue-600 dark:text-blue-400">
+                  =
+                </div>
               </div>
             </div>
 
