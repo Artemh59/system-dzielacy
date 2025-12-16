@@ -427,5 +427,3 @@ Gdy wykładnik = 0:
 ```
 Wartość = (−1)^S × 2^(−1022) × (0 + M)
 ```
-
-Używane dla bardzo małych liczb bliskich zeru.
