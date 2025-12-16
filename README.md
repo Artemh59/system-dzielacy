@@ -145,40 +145,6 @@ Format **Double Precision** (64-bit) składa się z:
 Wartość = (-1)^S × 2^(E-1023) × (1 + M)
 ```
 
-## 📖 Przykłady użycia
-
-### Przykład 1: Proste dzielenie
-
-```
-Dzielna: 10.5
-Dzielnik: 2.0
-Wynik: 5.25
-```
-
-### Przykład 2: Dzielenie z ułamkami
-
-```
-Dzielna: 7.5
-Dzielnik: 3.0
-Wynik: 2.5
-```
-
-### Przykład 3: Dzielenie z wynikiem okresowym
-
-```
-Dzielna: 10.0
-Dzielnik: 3.0
-Wynik: 3.333333333333333
-```
-
-## 🎨 Interfejs użytkownika
-
-- 🌓 **Dark mode** - automatyczne przełączanie
-- 📱 **Responsive** - działa na wszystkich urządzeniach
-- 🎭 **Animacje** - płynne przejścia i efekty
-- 🎨 **Kolorowe komponenty** - łatwa identyfikacja części binarnych
-- ⚡ **Szybki** - optymalizacja wydajności
-
 ## 🧪 Testowanie
 
 Aplikacja automatycznie obsługuje:
@@ -189,23 +155,6 @@ Aplikacja automatycznie obsługuje:
 - ✅ Bardzo małe i bardzo duże liczby
 - ✅ Specjalne wartości (0, infinity)
 
-## 📝 Licencja
-
-Projekt edukacyjny - Vistula University
-
-## 👥 Autorzy
-
-Projekt stworzony jako materiał edukacyjny do nauki systemów liczbowych i reprezentacji danych w komputerach.
-
 ## 🔗 Linki
 
 - [Pełna dokumentacja techniczna](./DOKUMENTACJA.md)
-- [IEEE 754 Wikipedia](https://pl.wikipedia.org/wiki/IEEE_754)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://react.dev)
-
----
-
-**Uczelnia:** Vistula University  
-**Przedmiot:** Systemy Liczbowe / Architektura Komputerów  
-**Rok:** 2025
